@@ -1,9 +1,15 @@
 ## Introduction
-TODO
+
+This is Magiconch.🐚
+
+I'm a smart contract dev, food lover and web3 lover.
+
+Learning `Rust` and `English`.
 
 ## 📫 Contact Me
-[SegmentFault][1]
 
+- 📩 [email](magiconch@outlook.com)
+- ✈️ [telegram](https://t.me/adnmb2)
 
 <!--
 **magiconch/magiconch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
