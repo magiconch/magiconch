@@ -4,7 +4,8 @@ This is Magiconch.🐚
 
 I'm a smart contract dev, food lover and web3 lover.
 
-Learning <del> `Rust` </del> and `English`.
+- 🌱 I’m currently learning English
+- 💬 Feel free to talk to me
 
 ## 📫 Contact Me
 
