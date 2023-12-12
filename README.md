@@ -2,16 +2,13 @@
 
 This is Magiconch.🐚
 
-I'm a smart contract dev, food lover and web3 lover.
-
 - 🌱 I’m currently learning English
 - 💬 Feel free to talk to me
 
 ## 📫 Contact Me
 
 - 📩 [email](magiconch@outlook.com)
-- ✈️ [telegram](https://t.me/adnmb2)
-
+  
 <!--
 **magiconch/magiconch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
